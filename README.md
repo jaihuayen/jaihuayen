@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jaihuayen
-- 👀 I’m interested in mobile models and survival analysis on customer behavior.
-- 🌱 I’m currently learning AI & Survival Analysis
+- 👀 I’m interested in Multimodal Machine Learning and Noise-Labeled Statistical Modeling.
 - 📫 You can reach me here: jaihuayen@gmail.com
 
 <!---
