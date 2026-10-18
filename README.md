@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaihuayen
-- 👀 I’m interested in Multimodal Machine Learning and Noise-Labeled Statistical Modeling.
+- 👀 I’m interested in Machine Learning and Change Point Analysis in Longitudinal Data.
 - 📫 You can reach me here: jaihuayen@gmail.com
 
 <!---
